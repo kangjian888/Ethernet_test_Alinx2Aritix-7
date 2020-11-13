@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Thu Nov 12 15:56:49 2020
+# Process ID: 4624
+# Current directory: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/icmp_rx_ram_8_256_synth_1
+# Command line: vivado.exe -log icmp_rx_ram_8_256.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source icmp_rx_ram_8_256.tcl
+# Log file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/icmp_rx_ram_8_256_synth_1/icmp_rx_ram_8_256.vds
+# Journal file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/icmp_rx_ram_8_256_synth_1\vivado.jou
+#-----------------------------------------------------------
+source icmp_rx_ram_8_256.tcl -notrace

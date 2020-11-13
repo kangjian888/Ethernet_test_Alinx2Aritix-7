@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Nov 13 17:23:52 2020
+# Process ID: 24884
+# Current directory: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/synth_1
+# Command line: vivado.exe -log Ethernet_Top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Ethernet_Top.tcl
+# Log file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/synth_1/Ethernet_Top.vds
+# Journal file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Ethernet_Top.tcl -notrace

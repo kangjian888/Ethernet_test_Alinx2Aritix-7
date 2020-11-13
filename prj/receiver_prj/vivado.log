@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Wed Nov 11 22:22:59 2020
+# Process ID: 18344
+# Current directory: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent11452 D:\OneDrive - HKUST Connect\Lab\OFDM_FPGA_VLC_Implementation\Receiver\prj\receiver_prj\receiver_prj.xpr
+# Log file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/vivado.log
+# Journal file: D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj/receiver_prj.xpr}
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'D:/OneDrive - HKUST Connect/Lab/OFDM_FPGA_VLC_Implementation/Receiver/prj/receiver_prj'
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'V:/vivado/Arm_ipi_repository'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'v:/vivado/Arm_ipi_repository'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2019.2/data/ip'.
+WARNING: [IP_Flow 19-5178] IP tri_mode_ethernet_mac_0 will not be generated with lower license level. If you would like to generate with the current available license levels, please reset and regenerate.
+open_project: Time (s): cpu = 00:00:44 ; elapsed = 00:01:04 . Memory (MB): peak = 712.164 ; gain = 97.363
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Nov 11 22:27:02 2020...
